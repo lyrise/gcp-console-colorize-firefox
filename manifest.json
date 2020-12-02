@@ -30,7 +30,6 @@
     "webNavigation"
   ],
   
-// section for Firefox port (Author:araigumaG)
   "browser_specific_settings" : {
     "gecko": {
       "id" : "{d83faea0-374c-4c3d-88de-d7409d1044da}"
