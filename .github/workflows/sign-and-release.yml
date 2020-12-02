@@ -24,7 +24,6 @@ jobs:
         uses: kewisch/action-web-ext@v1
         with:
           cmd: sign
-          id: "{d83faea0-374c-4c3d-88de-d7409d1044da}"
           source: ${{ steps.web-ext-build.outputs.target }}
           channel: unlisted
           apiKey: ${{ secrets.AMO_SIGN_KEY }}
