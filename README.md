@@ -10,6 +10,7 @@ e.g.) Change header color to red for a production project.
 ## Install
 
 <!-- [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/gcp-console-colorize/higjahjicmccalicmgfpokdmooopdhej?utm_source=gmail) -->
+[Install from release](https://github.com/araigumaG/gcp-console-colorize-firefox/releases/)
 
 ## See Also
 
